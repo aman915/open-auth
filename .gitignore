@@ -1,0 +1,9 @@
+# Node Dependency directory
+node_modules
+
+#Bower installation directory
+bower_components/
+
+#Build folder
+dist
+.tmp
